@@ -1,0 +1,14 @@
+C:\Programação\Projects\Tests\UnitTest\UnitTestController\bin\Debug\net8.0\UnitTestController.exe
+C:\Programação\Projects\Tests\UnitTest\UnitTestController\bin\Debug\net8.0\UnitTestController.deps.json
+C:\Programação\Projects\Tests\UnitTest\UnitTestController\bin\Debug\net8.0\UnitTestController.runtimeconfig.json
+C:\Programação\Projects\Tests\UnitTest\UnitTestController\bin\Debug\net8.0\UnitTestController.dll
+C:\Programação\Projects\Tests\UnitTest\UnitTestController\bin\Debug\net8.0\UnitTestController.pdb
+C:\Programação\Projects\Tests\UnitTest\UnitTestController\obj\Debug\net8.0\UnitTestController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\Projects\Tests\UnitTest\UnitTestController\obj\Debug\net8.0\UnitTestController.AssemblyInfoInputs.cache
+C:\Programação\Projects\Tests\UnitTest\UnitTestController\obj\Debug\net8.0\UnitTestController.AssemblyInfo.cs
+C:\Programação\Projects\Tests\UnitTest\UnitTestController\obj\Debug\net8.0\UnitTestController.csproj.CoreCompileInputs.cache
+C:\Programação\Projects\Tests\UnitTest\UnitTestController\obj\Debug\net8.0\UnitTestController.dll
+C:\Programação\Projects\Tests\UnitTest\UnitTestController\obj\Debug\net8.0\refint\UnitTestController.dll
+C:\Programação\Projects\Tests\UnitTest\UnitTestController\obj\Debug\net8.0\UnitTestController.pdb
+C:\Programação\Projects\Tests\UnitTest\UnitTestController\obj\Debug\net8.0\UnitTestController.genruntimeconfig.cache
+C:\Programação\Projects\Tests\UnitTest\UnitTestController\obj\Debug\net8.0\ref\UnitTestController.dll
